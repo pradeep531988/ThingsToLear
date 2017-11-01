@@ -1,0 +1,128 @@
+Things to Learn
+1. http://docs.oracle.com/javase/specs/jls/se7/html/index.html
+2. https://github.com/thjanssen/HibernateTips
+3. https://www.primefaces.org/primeng/#/carousel
+https://www.mkyong.com/spring-security/get-current-logged-in-username-in-spring-security/
+4. Prime-UI, Router file for child level with router-outlet for each sub component
+5. Prime-UI for UI or Ng-mo
+https://github.com/scobal/seyren
+https://github.com/scobal/seyren/blob/master/API.md
+https://github.com/Netflix/Hystrix : For  latency and fault tolerance library
+6. Always create Interface in Angular2
+7. Use Service for any downstream API call
+8. Istanbul, Jasmine and Karma
+9. Hot VS Cold Observable : https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/
+10. ReactJs ->(Observable), Pipes, Filter, Angular2 api call, Testing in angular for http call?
+11. Declaring local variable and global in javascript?
+12.   @ViewChild('primaryBlock') -> Angular2
+13.  SpringIntegration ?
+14.  Fusion Middleware?
+15. RxJava
+16. Spring Cloud
+17. this.http.get(“http://test”).when()
+18. this.http.get(“http://test”, Observable)
+19. Clear understanding on Subscribe, Promise and Observable?
+20. netcat -l 127.0.0.1 3001
+21. Angular CheatSheet
+22. https://www.w3schools.com/cssref/css_selectors.asp
+23. Open CV api
+24. RaspberryPi
+25. SVG graph
+26. Redshift
+27. Flink and cubenative
+28. Redis
+29. Slakbot
+30. Lucia -> ElasticSearch
+31. https://confluence/display/BCP/CloudTalk
+32. Scala, Spark, Hadoop, Cloud
+33. Abeam-Service (Kafka Impl)
+34. Dynamo Db
+35. Mongo Db
+36. Angular JS
+37. Nodes with Express
+38. Android
+39. Performance tools
+40. Grade and Jenkins
+41. Reflection
+42. Swagger
+43. BigData /hadoop 
+44. ElasticSearch
+45. Springboot
+46. Bootstrap
+47. Query Datatable
+48. Aws
+49. Yeoman
+50. Jhipster
+51. Bom
+52. Graphana
+53. Google Docs
+54. Etl
+55. Gulp
+56. Data Structures And Algorithm 5 Books  Http://Javarevisited.Blogspot.Com/2016/05/5-Free-Data-Structure-And-Algorithm-Books-In-Java.Html
+57. PrimerApp
+58. PAAS
+59. RabbitMQ
+60. Doppler
+61. Ruby
+62. Cucumber
+63. Kenner
+64. Reactive Programming
+65. Bower -> Curated list of which node modules are good
+66. Hive 
+67.  Groovy 
+68. Jerkin
+69. Impala
+70. HIVE -> IMPALA
+71. Hadoop MapReducer
+72. Couchbase
+73. phantjs
+74. Docker
+75.  App->StatsD->Graphite->Graphana
+CollectorD,Stats
+43. Creating different jobs example creating instance,db..
+44. How chef script is used by Jenkins and job is build along with AWS
+45. Kanban model : 
+46. Charles
+47. ELKSTACK
+48. What is Mbeans
+49. CAadvisor
+50. Hive
+51. Solar
+52. Trover
+53. Dropbox
+54.  Yak
+55. Trie 
+56. Redis (Cache)
+57. Jenkins Pipeline (Bansai)
+58. Grails 3
+59. Hue
+60. Lucine, 
+61. Bans
+62. Karma & PhantomJs(Node JS) & Jasmine
+63. Webpack
+64. Redshift http://docs.aws.amazon.com/redshift/latest/dg/c_choosing_dist_sort.html
+65. Amazon EMR
+66. What Canary & Docker does
+67. Kibana
+68. Banzai
+69. Thrift ?
+70. Pig in Hadoop?
+71. Quboal on type of MapReduce
+72. LifeRay
+73. Qubole 
+74. QlikView
+75. Apache Spark 2.0
+76. Pyton
+77. Tuples
+78. Swift
+79. NLP
+80. NFC
+81. xamarin
+82. Tapestry
+83.  
+84. Canary 
+
+ü  Having one year of experience on Hadoop and Eco system tools by using Cloudera.
+ 
+https://confluence/display/POS/Qubole+Education
+ 
